@@ -1,0 +1,84 @@
+body{
+    margin-top: 20px;
+    margin-left: 40%;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+section{
+    margin-top: 20px;
+    /* width: ; */
+    padding: 0;
+    box-sizing: border-box;
+    border: 2px solid black;
+    width: 36%;
+    margin-bottom: 15px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+h1{
+    font-size: 32px;
+    /* border: 2px solid red; */
+    padding: 0;
+    margin: -4px 0;
+    font-weight: 800;
+    letter-spacing: 0.15px;
+    margin-left: 5px;
+}
+.line{
+    height: 0.5px;
+    width: 95%;
+    background-color: #888989;
+    margin-left: 10px;
+    /* border: 2px solid red; */
+}
+p{
+    /* border: 2px solid red; */
+    font-weight: 400;
+    margin: 0;
+    font-size: 17px;
+    color: RGB(0, 0, 0);
+    margin-left: 5px;
+}
+.amu{
+    display: flex;
+}
+.amu p{
+    width: 50%;
+    font-size: 17px;
+    font-weight: 800;
+    /* border: 2px solid red; */
+    /* letter-spacing: 0.15px; */
+}
+.calr{
+    height: 100px;
+}
+.line2{
+    height: 8px;
+    width: 95%;
+    background-color: black;
+    /* border: 2px solid red; */
+    margin-left: 4px;
+}
+h2{
+    font-size: 14px;
+    /* border: 2px solid red; */
+    margin: 0;
+}
+.amu2{
+    display: flex;
+    border: 2px solid red;
+    padding: 0;
+    margin: 0;
+    height: auto;
+}
+.amu2 p{
+    border: 2px solid red;
+    width: 50%;
+    font-size: 32px;
+    font-weight: 700;
+}
+#cal{
+    padding-left: 50px;
+    font-size: 38.5px;
+   
+}
